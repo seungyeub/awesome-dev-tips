@@ -23,14 +23,15 @@ Further explanations will be added as the content is organized.
 
 ## JavaScript
 
-- [🧰 25-javascript-tricks-you-need-to-know-about](https://github.com/seungyeub/awesome-dev-tips/tree/master/js/25-javascript-tricks-you-need-to-know-about)
+- [🧰 25-javascript-tricks-you-need-to-know-about](https://github.com/seungyeub/awesome-dev-tips/blob/master/js/25-javascript-tricks-you-need-to-know-about)
 <br> > [알아두면 개발하기 편한 25가지 자바스크립트 유틸 코드]
-- [🧺 arrangement-handling](https://github.com/seungyeub/awesome-dev-tips/tree/master/js/arrangement-handling)
+- [🧺 arrangement-handling](https://github.com/seungyeub/awesome-dev-tips/blob/master/js/arrangement-handling)
 <br> > [자바스크립트 배열 메서드 reduce 100% 활용법]
-- [💰 format-shorten-cash-locale](https://github.com/seungyeub/awesome-dev-tips/tree/master/js/format-shorten-cash-locale)
+- [💰 format-shorten-cash-locale](https://github.com/seungyeub/awesome-dev-tips/blob/master/js/format-shorten-cash-locale)
 <br> > [국가 화폐별 단위 계산]
   - ex) (₩) : 천, 만, 억, 경 / ($) : K, M, B, T
-- [⏱️ JS/TS Simple Benchmark Utility](https://github.com/seungyeub/awesome-dev-tips/tree/master/js/utils/simple-benchmark-uitility.md)
+- [⏱️ JS/TS Simple Benchmark Utility](https://github.com/seungyeub/awesome-dev-tips/blob/master/js/utils/simple-benchmark-uitility.md)
+
 <br> > [성능, 속도 비교를 위한 벤치마크 툴킷 코드]
   - ex) "일반 for문 vs map vs forEach" 성능 비교
 
